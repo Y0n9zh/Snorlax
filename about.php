@@ -25,7 +25,6 @@ include_once "header.php";
                 <h6 style="color: black">在此由衷的感谢（以下人员不分排名先后）：</h6>
                 <ul>
                     <li>c0ny1</li>
-                    <li>jerryxucy</li>
                     <li>moonsec</li>
                     <li>xixixi</li>
                     <li>zhuifengshaonianhanlu</li>
